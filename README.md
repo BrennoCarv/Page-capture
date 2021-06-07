@@ -1,4 +1,12 @@
-Uma página de captura simples, vinculado com o Mainlchimp, aonde armazena dados do cliente preenchido no "mini" formulário do site e depois você possa enviar E-mail para todos que
-inscreveram no formulário.
+<h1>WorkShop</h1>
 
-Feito por: Brenno Carvalho :)
+> A simple capture page, linked with Mainlchimp, where it stores customer data filled in the site's "mini" form and then you can send E-mail to everyone who
+signed up on the form.
+
+> Technology used:
++ HTML5
++ CSS3
+
+Don't forget to see the images.
+
+Ass: Brenno Carvalho. 😄
